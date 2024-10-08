@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c369289c40f85774882ac8aba5ae6b6e, type: 3}
+  m_Name: Map2
+  m_EditorClassIdentifier: 
+  mapName: Map2
+  difficultyLevel: 2
+  environmentObjects:
+  - {fileID: 11400000, guid: b9e0f8f259e43f6468584ef8a27edd27, type: 2}
+  - {fileID: 11400000, guid: 076dc778b84c3504b900e989adcccf00, type: 2}
+  - {fileID: 11400000, guid: 4d263263baa350c448563a40ffa996a5, type: 2}
+  - {fileID: 11400000, guid: 6f92a556d2e946e41ba0226559d2e6f8, type: 2}
+  - {fileID: 11400000, guid: 25594a00de547f4499949cf359f68601, type: 2}
+  numberOfObjectsToSpawn: 100
+  spawnAreas:
+  - {fileID: 11400000, guid: 8b885ad0378b3f141a56dba08f8f6e5e, type: 2}
+  cats:
+  - {fileID: 11400000, guid: 5da10029192eaed4782b3b818e0b683e, type: 2}
