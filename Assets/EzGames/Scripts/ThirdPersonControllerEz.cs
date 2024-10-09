@@ -21,7 +21,7 @@ namespace StarterAssets
         [Header("Player")]
         [Tooltip("Move speed of the character in m/s")]
         public float MoveSpeed = 2.0f;
-
+        public float speedIncrement = 5f;
         [Tooltip("Sprint speed of the character in m/s")]
         public float SprintSpeed = 5.335f;
 
@@ -180,9 +180,16 @@ namespace StarterAssets
             CameraRotation();
         }
 
+        public void IncreaseSpeed()
+        {
 
-       
-        
+            MoveSpeed += speedIncrement;
+            Debug.Log("Current speed: " + MoveSpeed);
+            
+            
+        }
+
+
 
 
 
@@ -301,6 +308,7 @@ namespace StarterAssets
             }
         }
 
+
         private void JumpAndGravity()
         {
             if (Grounded)
@@ -410,5 +418,7 @@ namespace StarterAssets
                 AudioSource.PlayClipAtPoint(LandingAudioClip, transform.TransformPoint(_controller.center), FootstepAudioVolume);
             }
         }
+
+
     }
 }

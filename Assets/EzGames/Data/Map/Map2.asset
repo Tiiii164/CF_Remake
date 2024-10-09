@@ -15,12 +15,13 @@ MonoBehaviour:
   mapName: Map2
   difficultyLevel: 2
   environmentObjects:
-  - {fileID: 11400000, guid: b9e0f8f259e43f6468584ef8a27edd27, type: 2}
-  - {fileID: 11400000, guid: 076dc778b84c3504b900e989adcccf00, type: 2}
-  - {fileID: 11400000, guid: 4d263263baa350c448563a40ffa996a5, type: 2}
-  - {fileID: 11400000, guid: 6f92a556d2e946e41ba0226559d2e6f8, type: 2}
-  - {fileID: 11400000, guid: 25594a00de547f4499949cf359f68601, type: 2}
-  numberOfObjectsToSpawn: 100
+  - {fileID: 11400000, guid: eb16ba4e66edebb46980d6e7a8bd288b, type: 2}
+  - {fileID: 11400000, guid: 4e71314d4579eaa4cbefc6f965f93535, type: 2}
+  - {fileID: 11400000, guid: 30ee0f663c515f54bb31ce71884dcbad, type: 2}
+  - {fileID: 11400000, guid: a573e35fead415c4bb067e0200fe69df, type: 2}
+  - {fileID: 11400000, guid: 6d4ed6bdba145cc40b94787c513efdf8, type: 2}
+  - {fileID: 11400000, guid: 7040cebf3956fff4489f0307f491d9c5, type: 2}
+  numberOfObjectsToSpawn: 200
   spawnAreas:
   - {fileID: 11400000, guid: 8b885ad0378b3f141a56dba08f8f6e5e, type: 2}
   cats:

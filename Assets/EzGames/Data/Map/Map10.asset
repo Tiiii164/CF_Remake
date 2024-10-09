@@ -22,6 +22,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 25594a00de547f4499949cf359f68601, type: 2}
   numberOfObjectsToSpawn: 100
   spawnAreas:
-  - {fileID: 11400000, guid: 3349432cfd7177c4d93a982ed176a256, type: 2}
+  - {fileID: 11400000, guid: 126fe5dc1048144458c7896b15c2b1df, type: 2}
   cats:
   - {fileID: 11400000, guid: 5da10029192eaed4782b3b818e0b683e, type: 2}

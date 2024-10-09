@@ -18,7 +18,9 @@ public class GoalTrigger : MonoBehaviour
         {
             winPanel.SetActive(true);
 
-            Time.timeScale = 0f;  
+            Time.timeScale = 0f;
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
         }
     }
 }

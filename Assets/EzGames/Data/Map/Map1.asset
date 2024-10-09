@@ -15,11 +15,11 @@ MonoBehaviour:
   mapName: Map1
   difficultyLevel: 1
   environmentObjects:
-  - {fileID: 11400000, guid: b9e0f8f259e43f6468584ef8a27edd27, type: 2}
-  - {fileID: 11400000, guid: 076dc778b84c3504b900e989adcccf00, type: 2}
-  - {fileID: 11400000, guid: 4d263263baa350c448563a40ffa996a5, type: 2}
+  - {fileID: 11400000, guid: 5b02c71085d4c194a8110fa237070334, type: 2}
+  - {fileID: 11400000, guid: d35606666668e1f43b662c12d086eeea, type: 2}
+  - {fileID: 11400000, guid: 1bf5a8f1b2f65b449bdbb616c184eecf, type: 2}
   - {fileID: 11400000, guid: 6f92a556d2e946e41ba0226559d2e6f8, type: 2}
-  - {fileID: 11400000, guid: 25594a00de547f4499949cf359f68601, type: 2}
+  - {fileID: 11400000, guid: 6f92a556d2e946e41ba0226559d2e6f8, type: 2}
   numberOfObjectsToSpawn: 100
   spawnAreas:
   - {fileID: 11400000, guid: 3349432cfd7177c4d93a982ed176a256, type: 2}

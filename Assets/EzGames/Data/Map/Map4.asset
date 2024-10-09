@@ -19,9 +19,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 076dc778b84c3504b900e989adcccf00, type: 2}
   - {fileID: 11400000, guid: 4d263263baa350c448563a40ffa996a5, type: 2}
   - {fileID: 11400000, guid: 6f92a556d2e946e41ba0226559d2e6f8, type: 2}
-  - {fileID: 11400000, guid: 25594a00de547f4499949cf359f68601, type: 2}
+  - {fileID: 11400000, guid: 302871d1e7184c5439c4455fb867dff2, type: 2}
+  - {fileID: 11400000, guid: 1be4e55f1f67a544d929e2e5372172f5, type: 2}
   numberOfObjectsToSpawn: 100
   spawnAreas:
-  - {fileID: 11400000, guid: 3349432cfd7177c4d93a982ed176a256, type: 2}
+  - {fileID: 11400000, guid: 8ba80546a9543e946957a9006c9d09fe, type: 2}
   cats:
   - {fileID: 11400000, guid: 5da10029192eaed4782b3b818e0b683e, type: 2}
